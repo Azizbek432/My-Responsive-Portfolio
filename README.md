@@ -1,4 +1,4 @@
-<img width="1898" height="917" alt="Screenshot 2026-02-23 215834" src="https://github.com/user-attachments/assets/d3199bea-1b57-4377-a062-84f89024e106" /><img width="1898" height="917" alt="image" src="https://github.com/user-attachments/assets/5a1d2b4f-a364-42eb-80c2-68449b32b0e0" />🚀 My Responsive Portfolio
+🚀 My Responsive Portfolio
 This is my professional personal portfolio website, designed to showcase my skills, projects, and experience. Built with a focus on modern UI/UX, smooth animations, and full responsiveness across all devices.
 🔗 Live Demo: View my Portfolio on Vercel
 
@@ -21,4 +21,6 @@ This is my professional personal portfolio website, designed to showcase my skil
 - /img: Optimized assets and profile images.
 - /pdf: Professional resume and certifications.
 
-  ![My portfolio image]<img width="1898" height="917" alt="Screenshot 2026-02-23 215834" src="https://github.com/user-attachments/assets/7dc2d18d-6e59-4c46-97ff-870b693fa80d" />
+## My portfolio image(this my main portfolio..)
+
+<img width="1898" height="917" alt="Screenshot 2026-02-23 215834" src="https://github.com/user-attachments/assets/7dc2d18d-6e59-4c46-97ff-870b693fa80d" />
